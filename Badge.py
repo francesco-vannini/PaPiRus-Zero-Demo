@@ -27,11 +27,11 @@ L_SIZE = 25
 M_SIZE = 20
 S_SIZE = 15
 
-SW1 = 26
-SW2 = 19
+SW1 = 21
+SW2 = 16
 SW3 = 20
-SW4 = 16
-SW5 = 21
+SW4 = 19
+SW5 = 26
 
 projectPath = '/home/pi/PaPiRus-Zero/'
 
